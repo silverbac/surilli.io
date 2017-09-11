@@ -101,9 +101,34 @@
             }
           ],
           "toolsDependencies": []
-        },  
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.0.0.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.0.0.tar.bz2",
+          "checksum": "SHA-256:12e0be6862a3a28b6515755dcad2842757caf4e5270326554f95059512ebaab5",
+          "size": "268954",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            }
+          ],
+          "toolsDependencies": []
+        },
         
-      ]
+        
+        
+        
+      ],
       "tools": [
         {
           "name": "bossac",
