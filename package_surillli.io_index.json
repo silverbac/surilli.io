@@ -326,5 +326,60 @@
         }
       ]
     },
+    {
+      "maintainer": "SparkFun Electronics",
+      "help": {
+        "online": "http://SparkFun.com"
+      },
+      "websiteURL": "https://github.com/sparkfun/Arduino_Boards",
+      "platforms": [
+        {
+          "category": "Contributed",
+          "name": "SparkFun ESP8266 Boards",
+          "url": "https://cdn.sparkfun.com/assets/learn_tutorials/4/9/5/sparkfun-esp8266-2.1.0.tar.bz2",
+          "checksum": "SHA-256:FE3E0504B38A5A4C912801A3E4633380A666DC77B8D3043548187AF8675477DA",
+          "help": {
+            "online": "https://learn.sparkfun.com"
+          },
+          "version": "2.1.0",
+          "architecture": "esp8266",
+          "archiveFileName": "sparkfun-esp8266-2.1.0.tar.bz2",
+          "boards": [
+            {
+              "name": "SparkFun Blynk Board - ESP8266"
+            },
+            {
+              "name": "SparkFun ESP8266 Thing"
+            },
+            {
+              "name": "SparkFun ESP8266 Thing - Development Board"
+            },
+            {
+              "name": "Generic ESP8266 Module"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp8266",
+              "version": "0.4.8",
+              "name": "esptool"
+            },
+            {
+              "packager": "esp8266",
+              "version": "1.20.0-26-gb404fb9-2",
+              "name": "xtensa-lx106-elf-gcc"
+            },
+            {
+              "packager": "esp8266",
+              "version": "0.1.2",
+              "name": "mkspiffs"
+            }
+          ],
+          "size": "5436076"
+        }
+      ],
+      "email": "ivan@esp8266.com",
+      "name": "esp8266"
+    }
   ]
 }
