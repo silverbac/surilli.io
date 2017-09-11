@@ -23,11 +23,35 @@
           },
           "boards": [
             {
-              "name": "Surilli"
+              "name": "RedBoard"
             },
             {
-              "name": "Mandrill"
+              "name": "MaKey MaKey"
             },
+            {
+              "name": "Pro Micro"
+            },
+            {
+              "name": "Fio v3"
+            },
+            {
+              "name": "Qduino Mini"
+            },
+            {
+              "name": "Digital Sandbox"
+            },
+            {
+              "name": "Mega Pro"
+            },
+            {
+              "name": "RedBot"
+            },
+            {
+              "name": "Serial 7-segment Display"
+            },
+            {
+              "name": "ATmega128RFA1 Dev Board"
+            }
           ],
           "toolsDependencies": []
         },
@@ -45,11 +69,35 @@
           },
           "boards": [
             {
-              "name": "Surilli"
+              "name": "RedBoard"
             },
             {
-              "name": "Mandrill"
+              "name": "MaKey MaKey"
             },
+            {
+              "name": "Pro Micro"
+            },
+            {
+              "name": "Fio v3"
+            },
+            {
+              "name": "Qduino Mini"
+            },
+            {
+              "name": "Digital Sandbox"
+            },
+            {
+              "name": "Mega Pro"
+            },
+            {
+              "name": "RedBot"
+            },
+            {
+              "name": "Serial 7-segment Display"
+            },
+            {
+              "name": "ATmega128RFA1 Dev Board"
+            }
           ],
           "toolsDependencies": []
         },
