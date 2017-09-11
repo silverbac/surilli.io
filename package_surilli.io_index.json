@@ -28,7 +28,7 @@
             },
             {
               "name": "Mandrill"
-            },
+            }
           ],
           "toolsDependencies": []
         },
@@ -50,7 +50,7 @@
             },
             {
               "name": "Mandrill"
-            },
+            }
           ],
           "toolsDependencies": []
         }
