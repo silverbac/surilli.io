@@ -1,0 +1,67 @@
+{
+   "packages":[
+      {
+         "name":"Silverback",
+         "maintainer":"Umair",
+         "websiteURL":"http://silver-back.co/",
+         "email":"muhammad.umair@silverback.com",
+         "help":{
+            "online":"http://silver-back.co/"
+         },
+         "platforms":[
+            {
+               "name":"ye kidhr AVR Boards",
+               "architecture":"avr",
+               "version":"1.1.0",
+               "category":"Adafruit",
+               "url":"https://adafruit.github.io/arduino-board-index/boards/adafruit-1.1.0.tar.bz2",
+               "archiveFileName":"adafruit-1.1.0.tar.bz2",
+               "checksum":"SHA-256:4e72d4267d9a8d86874edcd021dc661854a5136c0eed947a6fe10366bc51e373",
+               "size":"29455",
+               "help":{
+                  "online":"http://silver-back.co/"
+               },
+               "boards":[
+                  {
+                     "name":"Adafruit Flora"
+                  },
+                  {
+                     "name":"Adafruit Gemma 8MHz"
+                  },
+                  {
+                     "name":"Adafruit Trinket 8MHz"
+                  },
+                  {
+                     "name":"Adafruit Trinket 16MHz"
+                  },
+                  {
+                     "name":"Pro Trinket 5V/16MHz (USB)"
+                  },
+                  {
+                     "name":"Pro Trinket 3V/12MHz (USB)"
+                  },
+                  {
+                     "name":"Pro Trinket 5V/16MHz (FTDI)"
+                  },
+                  {
+                     "name":"Pro Trinket 3V/12MHz (FTDI)"
+                  }
+               ],
+               "toolsDependencies":[
+                  {
+                     "packager":"arduino",
+                     "name":"avr-gcc",
+                     "version":"4.8.1-arduino5"
+                  },
+                  {
+                     "packager":"arduino",
+                     "name":"avrdude",
+                     "version":"6.0.1-arduino5"
+                  }
+               ]
+            }
+         ],
+         "tools":[]
+      }
+   ]
+}
