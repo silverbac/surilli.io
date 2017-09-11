@@ -295,8 +295,8 @@
               "version": "1.4.0"
             }
           ]
-        }
-      ]
+        },
+      ],
       "tools": [
         {
           "name": "bossac",
