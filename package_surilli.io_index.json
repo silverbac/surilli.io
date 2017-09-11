@@ -1,16 +1,17 @@
+
 {
   "packages": [
     {
-      "name": "SparkFun",
-      "maintainer": "SparkFun Electronics",
-      "websiteURL": "https://SparkFun.com",
-      "email": "TechSupport@SparkFun.com",
+      "name": "Silverback",
+      "maintainer": "Umair",
+      "websiteURL": "http://silver-back.co/",
+      "email": "muhammad.umair@silverback.com",
       "help": {
-        "online": "https://forum.sparkfun.com"
+        "online": "http://silver-back.co/"
       },
       "platforms": [
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Silverback AVR Boards",
           "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
@@ -19,7 +20,7 @@
           "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
           "size": "1162215",
           "help": {
-            "online": "https://forums.sparkfun.com"
+            "online": "http://silver-back.co/"
           },
           "boards": [
             {
@@ -56,7 +57,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Silverback AVR Boards",
           "architecture": "avr",
           "version": "1.1.6",
           "category": "Contributed",
@@ -65,7 +66,7 @@
           "checksum": "SHA-256:049FA0DF51602120EC1BDAC19F440FC0CC448C23BB277DD0D8DF855C52ACD483",
           "size": "1159276",
           "help": {
-            "online": "https://forums.sparkfun.com"
+            "online": "http://silver-back.co/"
           },
           "boards": [
             {
