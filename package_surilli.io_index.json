@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/sparkfunboards.1.1.5.tar.bz2",
-          "archiveFileName": "sparkfunboards.1.1.5.tar.bz2",
-          "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
+          "url": "https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/silverback.1.1.5.tar.bz2",
+          "archiveFileName": "silverback.1.1.5.tar.bz2",
+          "checksum": "SHA-256:231164521724522C1F852F1611973CE353E2F4A3B3C6670568339EFBCC60D2BC",
           "size": "1162215",
           "help": {
             "online": "http://silver-back.co/"
@@ -36,9 +36,9 @@
           "architecture": "avr",
           "version": "1.1.6",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/sparkfunboards.1.1.6.tar.bz2",
-          "archiveFileName": "sparkfunboards.1.1.6.tar.bz2",
-          "checksum": "SHA-256:049FA0DF51602120EC1BDAC19F440FC0CC448C23BB277DD0D8DF855C52ACD483",
+          "url": "https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/silverback.1.1.6.tar.bz2",
+          "archiveFileName": "silverback.1.1.6.tar.bz2",
+          "checksum": "SHA-256:ABD9E9D5E94C9C1C2C07E37EA661D70EE7B02F47341E02C6AA92C13A92FCA02E",
           "size": "1159276",
           "help": {
             "online": "http://silver-back.co/"
