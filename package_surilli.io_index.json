@@ -2,15 +2,15 @@
   "packages": [
     {
       "name": "Silverback",
-      "maintainer": "Umair",
+      "maintainer": "Silverback",
       "websiteURL": "http://silver-back.co/",
       "email": "muhammad.umair@silverback.com",
       "help": {
-        "online": "http://silver-back.co/"
+        "online": "hhttp://surilli.io/"
       },
       "platforms": [
         {
-          "name": "Silverback AVR Boards",
+          "name": "Surilli AVR Boards",
           "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
@@ -19,7 +19,7 @@
           "checksum": "SHA-256:2FDBA485D203D3768BB6CA9797CBE607BE6431ECB4EB5DB2ABB13AC5C5D366F6",
           "size": "1162215",
           "help": {
-            "online": "http://silver-back.co/"
+            "online": "http://surilli.io/"
           },
           "boards": [
             {
@@ -41,7 +41,7 @@
           "checksum": "SHA-256:D62B1B11F1E36A6EBE4C9F5C025783B4A1ED9774CA61AB6C55A33F0A26D6063A",
           "size": "1159276",
           "help": {
-            "online": "http://silver-back.co/"
+            "online": "http://surilli.io/"
           },
           "boards": [
              {
