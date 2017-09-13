@@ -9,10 +9,10 @@ This repository contains support for the following Surilli Arduino-compatible av
 
 ### Installation Instructions
 
-To add board support for our products, start Arduino and open the Preferences window (File > Preferences). Now copy and paste the following URL into the 'Additional Boards Manager URLs' input field:
+To add board support for our products, start Arduino and open the Preferences window (**File** > **Preferences**). Now copy and paste the following URL into the 'Additional Boards Manager URLs' input field:
 
 https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/package_surilli.io_index.json
-
+![Location of Additional Boards Manager URL input field](1.png)
  
 If there is already an URL from another manufacturer in that field, click the button at the right end of the field. This will open an editing window allowing you to paste the above URL onto a new line.
 
@@ -22,5 +22,5 @@ Open the Boards Manager window by selecting Tools > Board, scroll to the top of 
 If you type "surilli" into the "filter your search" field, you will see options to install Surilli AVR boards. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
  
 **Have fun!**<br>
--Your friends at SparkFun
+
 
