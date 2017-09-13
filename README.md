@@ -25,6 +25,6 @@ If you type "surilli" into the "filter your search" field, you will see options 
  
 ![Surilli Boards](surilliboards.png)
 
-**Have fun!**<br>
+**Have fun!**
 
 
