@@ -11,7 +11,8 @@ This repository contains support for the following Surilli Arduino-compatible av
 
 To add board support for our products, start Arduino and open the Preferences window (**File** > **Preferences**). Now copy and paste the following URL into the 'Additional Boards Manager URLs' input field:
 
-https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/package_surilli.io_index.json
+       https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/package_surilli.io_index.json
+
 ![Location of Additional Boards Manager URL input field](prefs-arrow.png)
  
 If there is already an URL from another manufacturer in that field, click the button at the right end of the field. This will open an editing window allowing you to paste the above URL onto a new line.
